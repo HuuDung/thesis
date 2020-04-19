@@ -1,0 +1,6177 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="a"/>
+    <variable name="la"/>
+  </head>
+  <results>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#gazprom-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Gazprom Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#impact-arena-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">IMPACT Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#arena-khimki-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Arena Khimki</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-auguste-delaune-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade Auguste-Delaune</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#kazan-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Kazan Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#qizhong-forest-sports-city-arena-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Qizhong Forest Sports City Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#regenboogstadion-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Regenboogstadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-miejski-im.-marsza?ka-józefa-pi?sudskiego-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion Miejski im. Marsza?ka Józefa Pi?sudskiego</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#allianz-stadium-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Allianz Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#de-grolsch-veste-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">De Grolsch Veste</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#pairc-tailteann-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Páirc Tailteann</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#wembley-stadium-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Wembley Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estádio-da-madeira-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estádio da Madeira</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#darlington-arena-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Darlington Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estadio-3-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estadio 3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#bjk-İnonu-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">BJK İnönü Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#toumba-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Toumba Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#benito-stirpe-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Benito Stirpe</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#timsah-arena-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Timsah Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-narodowy-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion Narodowy</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-mario-rigamonti-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio Mario Rigamonti</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#arena-zabrze-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Arena Zabrze</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#tennis-club-weissenhof-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Tennis Club Weissenhof</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#letzigrund-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Letzigrund</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#guangzhou-international-tennis-center-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Guangzhou International Tennis Center</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#aalborg-portland-park-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Aalborg Portland Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#koning-willem-ii-stadion-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Koning Willem II Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#riverside-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Riverside Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-di-cornaredo-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio di Cornaredo</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#vasil-levski-national-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Vasil Levski National Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-letná-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion Letná</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-michel-d'ornano-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade Michel-d'Ornano</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#sammy-ofer-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Sammy Ofer Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#schwarzwald-stadion-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Schwarzwald-Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#aldo-drosina-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Aldo Drosina</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ibrox-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Ibrox Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estadio-municipal-de-braga-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estádio Municipal de Braga</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-de-la-mosson-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade de la Mosson</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#newport-casino-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Newport Casino</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#tynecastle-park-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Tynecastle Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#nou-mestalla-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Nou Mestalla</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-luigi-ferraris-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio Luigi Ferraris</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#rewirpowerstadion-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Rewirpowerstadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#municipal-de-montilivi-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Municipal de Montilivi</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#etihad-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Etihad Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#don-valley-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Don Valley Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#munich-olympiastadion-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Munich Olympiastadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#friends-arena-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Friends Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#lindner-family-tennis-center-grandstand-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Lindner Family Tennis Center (Grandstand)</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#metalist-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Metalist Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#athens-olympic-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Athens Olympic Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#tunavallen-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Tunavallen</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadium-of-light-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadium of Light</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#petersburg-sports-and-concert-complex-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Petersburg Sports and Concert Complex</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#freethielstadion-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Freethielstadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#santiago-bernabéu-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Santiago Bernabéu</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ernest-pohl-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Ernest Pohl Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ael-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">AEL FC Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#celtic-park-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Celtic Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ernst-happel-stadion-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Ernst Happel Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estadio-do-dragao-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estádio do Dragão</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#new-ankara-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">New Ankara Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-krasnodar-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion Krasnodar</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ion-oblemenco-new-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Ion Oblemenco - New</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#tivoli-stadion-tirol-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Tivoli Stadion Tirol</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#wimbledon-centre-court-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Wimbledon Centre Court</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#hrazdan-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Hrazdan Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#bramall-lane-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Bramall Lane</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#gaelic-grounds-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Gaelic Grounds</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#cars-jeans-stadion-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Cars Jeans Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#bayarena-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">BayArena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#cebeci-inonu-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Cebeci İnönü Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#marin-anastasovici-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Marin Anastasovici</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#asim-ferhatovic-hase-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Asim Ferhatović Hase Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-del-conero-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio del Conero</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#doosan-aréna-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Doosan Aréna</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#brøndby-stadion-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Brøndby Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-fk-partizan-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion FK Partizan</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ennio-tardini-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Ennio Tardini</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#racquet-club-of-memphis-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Racquet Club of Memphis</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#gradski-vrt-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Gradski vrt</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#william-h-g-fitzgerald-tennis-center-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">William H.G. FitzGerald Tennis Center</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#craven-cottage-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Craven Cottage</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-nereo-rocco-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio Nereo Rocco</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#metallurg-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Metallurg Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-geoffroy-guichard-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade Geoffroy-Guichard</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#sydbank-park-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Sydbank Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-zosimades-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio Zosimades</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#werzer-arena-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Werzer Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#campo-de-fútbol-de-vallecas-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Campo de Fútbol de Vallecas</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-miejski-im.-henryka-reymana-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion Miejski im. Henryka Reymana</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#yeni-malatya-stadyumu-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Yeni Malatya Stadyumu</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#vitality-stadium-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Vitality Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#kungliga-tennishallen-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Kungliga Tennishallen</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#hisense-arena-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Hisense Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#anoeta-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Anoeta</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ltat-national-tennis-development-centre-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">LTAT National Tennis Development Centre</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#thomond-park-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Thomond Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#tourbillon-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Tourbillon</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#sanlıurfa-gap-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Şanlıurfa GAP Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#el-molinon-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">El Molinón</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-des-costières-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade des Costières</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#connecticut-tennis-center-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Connecticut Tennis Center</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-geoffroy-guichard-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade Geoffroy-Guichard</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#van-donge-de-roo-stadion-woudestein-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Van Donge &amp; De Roo Stadion - Woudestein</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#emirates-stadium-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Emirates Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-oceane-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade Océane</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#cashpoint-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">CASHPOINT-Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#queen-s-club-centre-court-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Queen’s Club – Centre Court</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#tony-macaroni-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Tony Macaroni Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-ticha-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion Ticha</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#municipal-de-butarque-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Municipal de Butarque</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estadi-olimpic-lluis-companys-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estadi Olímpic Lluís Companys</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#family-circle-tennis-center-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Family Circle Tennis Center</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-de-la-beaujoire-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade de la Beaujoire</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#selhurst-park-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Selhurst Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estádio-marcolino-de-castro-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estádio Marcolino de Castro</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#otkrytie-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Otkrytie Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#britannia-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Britannia Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#dr.-constantin-r?dulescu-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Dr. Constantin R?dulescu</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#profertil-arena-hartberg-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Profertil Arena Hartberg</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estádio-dos-arcos-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estádio dos Arcos</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#mch-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">MCH Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#dinamo-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Dinamo</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#kadir-has-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Kadir Has Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#akhmat-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Akhmat-Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#chornomorets-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Chornomorets Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#moon-court-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Moon Court</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#slavutych-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Slavutych Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-mladost-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion Mladost</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#westside-tennis-club-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Westside Tennis Club</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-miejski-im.-floriana-krygiera-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion Miejski im. Floriana Krygiera</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-im.-kazimierza-górskiego-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion im. Kazimierza Górskiego</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#wexford-park-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Wexford Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#vejle-stadion-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Vejle Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#baku-olympic-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Baku Olympic Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#kranjceviceva-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Kranjceviceva</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#lindner-family-tennis-center-court-3-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Lindner Family Tennis Center (Court #3)</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estádio-municipal-eng.º-manuel-branco-teixeira-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estádio Municipal Eng.º Manuel Branco Teixeira</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#giuseppe-meazza-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Giuseppe Meazza</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-miejski-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion Miejski</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#nature-energy-park-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Nature Energy Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#lord-s-cricket-ground-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Lord's Cricket Ground</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-im.-yuriya-gagarina-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion im. Yuriya Gagarina</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estadio-do-restelo-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estádio do Restelo</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#new-antalya-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">New Antalya Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#hampden-park-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Hampden Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#walkers-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Walkers Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-karadjordje-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion Karadjordje</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#frankenstadion-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Frankenstadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#casement-park-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Casement Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#warszawianka-tennis-centre-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Warszawianka Tennis Centre</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#bahçe?ehir-okullar?-stadyumu-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Bahçe?ehir Okullar? Stadyumu</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ciutat-de-valència-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Ciutat de València</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#esprit-arena-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Esprit Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estádio-do-bonfim-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estádio do Bonfim</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ullevi-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Ullevi</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-uniprix-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade Uniprix</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#abe-lenstra-stadion-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Abe Lenstra Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ukraina-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Ukraina</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#elland-road-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Elland Road</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ludogorets-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Ludogorets Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#nueva-condomina-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Nueva Condomina</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#gradski-stadion-zemun-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Gradski stadion Zemun</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#melbourne-multi-purpose-venue-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Melbourne Multi Purpose Venue</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#fairmont-acapulco-princess-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Fairmont Acapulco Princess</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-miejski-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion Miejski</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#reebok-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Reebok Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-pino-zaccheria-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio Pino Zaccheria</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#rudolf-harbig-stadion-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Rudolf-Harbig-Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#pittodrie-stadium-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Pittodrie Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#tsentralnyi-profsoyuz-stadion-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Tsentralnyi Profsoyuz Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-de-france-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade de France</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-de-la-route-de-lorient-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade de la Route de Lorient</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stayen-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stayen</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#osk-metalist-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">OSK Metalist</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadium-municipal-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadium Municipal</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-neas-smyrnis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio Neas Smyrnis</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#rosenaustadion-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Rosenaustadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-gosir-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion GOSiR</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#am-rothenbaum-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Am Rothenbaum</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#st?elnice-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">St?elnice</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-im.-vorskla-oleksiya-butovsky-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion im. Vorskla Oleksiya Butovsky</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#kehrweg-stadion-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Kehrweg-Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#old-trafford-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Old Trafford</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#olympiastadion-berlin-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Olympiastadion Berlin</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#veb-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">VEB Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#la-cerámica-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">La Cerámica</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-de-la-meinau-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade de la Meinau</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-san-filippo-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio San Filippo</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#croke-park-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Croke Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-du-hainaut-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade du Hainaut</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estadio-santiago-bernabeu-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estadio Santiago Bernabéu</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estadio-2-arantxa-sanchez-vicario-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estadio 2: Arantxa Sánchez Vicario</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-friuli-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio Friuli</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#tele2-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Tele2 Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#hitachi-capital-mobility-stadion-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Hitachi Capital Mobility Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estádio-josé-alvalade-xxi-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estádio José Alvalade XXI</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#new-varna-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">New Varna Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#porsche-arena-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Porsche Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#molineux-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Molineux</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#molineux-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Molineux Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#new-sivas-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">New Sivas Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#konya-büyük?ehir-belediye-stadyumu-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Konya Büyük?ehir Belediye Stadyumu</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#arena-nationala-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Arena Naţională</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#san-paolo-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">San Paolo</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-municipal-saint-symphorien-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade Municipal Saint-Symphorien</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#san-siro-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">San Siro</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#metalurh-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Metalurh Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#medical-park-stadyumu-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Medical Park Stadyumu</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#la-romareda-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">La Romareda</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#yeni-4-eylül-stad?-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Yeni 4 Eylül Stad?</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#dubai-tennis-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Dubai Tennis Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#bjk-i̇nonu-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">BJK İnönü Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#dkb-arena-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">DKB-Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-?air-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion ?air</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#camp-nou-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Camp Nou</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#rasunda-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Råsunda Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#anfield-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Anfield</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#kilmac-stadium-at-dens-park-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Kilmac Stadium at Dens Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#imtech-arena-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Imtech Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-maurice-dufrasne-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade Maurice Dufrasne</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ramón-sánchez-pizjuan-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Ramón Sánchez Pizjuan</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#tottenham-hotspur-stadium-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Tottenham Hotspur Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#zentralstadion-krasnoyarsk-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Zentralstadion Krasnoyarsk</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-flaminio-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio Flaminio</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#fir-park-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Fir Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#valley-parade-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Valley Parade</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#o2-arena-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">O2 Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estádio-dos-barreiros-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estádio dos Barreiros</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#spartak-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Spartak Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#rugby-park-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Rugby Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-de-suisse-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade de Suisse</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#hdi-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">HDI-Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#new-malatya-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">New Malatya Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#tofiq-bahramov-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Tofiq Bahramov Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#dw-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">DW Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#tgw-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">TGW Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estadio-olimpico-de-sevilla-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estadio Olímpico de Sevilla</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#helsinki-olympic-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Helsinki Olympic Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#csk-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">CSK Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#sukru-saracoglu-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Şükrü Saracoğlu Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#johan-cruijff-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Johan Cruijff ArenA</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#cluj-arena-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Cluj Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#gradski-stadion-ivan-kusek-apas-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Gradski Stadion Ivan Kusek Apas</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#georgi-asparuhov-stadium-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Georgi Asparuhov Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#olympia-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Olympia</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estoril-court-central-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estoril Court Central</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-oreste-granillo-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio Oreste Granillo</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#rexall-centre-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Rexall Centre</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#steffi-graf-stadion-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Steffi-Graf-Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#celtic-park-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Celtic Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#new-eskisehir-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">New Eskişehir Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#abe-lenstra-stadion-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Abe Lenstra Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#old-trafford-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Old Trafford</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#kc-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">KC Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#olympiako-stadio-athinon-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Olympiako Stadio Athinon</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-des-lumieres-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade des Lumières</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#nord-energi-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Nord Energi Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#bursa-büyük?ehir-belediye-stadyumu-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Bursa Büyük?ehir Belediye Stadyumu</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#red-bull-arena-salzburg-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Red Bull Arena Salzburg</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-zag??bia-lubin-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion Zag??bia Lubin</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-widzewa-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion Widzewa</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#john-smith's-stadium-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">John Smith's Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#kybunpark-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">kybunpark</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#goodison-park-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Goodison Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#dinamo-arena-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Dinamo Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-marcantonio-bentegodi-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio Marcantonio Bentegodi</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#national-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">National Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-de-la-beaujoire-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade de la Beaujoire</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#municipal-sibiu-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Municipal Sibiu</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#astana-arena-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Astana Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#municipal-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Municipal</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#swedbank-stadion-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Swedbank Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#dan-paltinisanu-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Dan Păltinişanu Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-arechi-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio Arechi</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#partizan-stadion-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Partizan Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#cepheus-park-randers-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Cepheus Park Randers</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#caja-magica-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Caja Mágica</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-albert-florian-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion Albert Flórián</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#mercedes-benz-arena-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Mercedes-Benz Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#pge-arena-gdansk-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">PGE Arena Gdańsk</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#batumi-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Batumi Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-georgios-karaiskakis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio Georgios Karaiskakis</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#schauinsland-reisen-arena-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Schauinsland-Reisen-Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#rcde-stadium-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">RCDE Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#tokyo-metropolitan-gymnasium-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Tokyo Metropolitan Gymnasium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#australia-show-court-3-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Australia Show Court 3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#cusack-park-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Cusack Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#bornova-stad?-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Bornova Stad?</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#guldensporenstadion-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Guldensporenstadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-renato-dall-ara-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio Renato Dall'Ara</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#st-andrews-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">St Andrews</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estádio-nacional-do-jamor-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estádio Nacional do Jamor</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#commerzbank-arena-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Commerzbank-Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-u-nisy-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion U Nisy</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#rsc-olimpiyskiy-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">RSC Olimpiyskiy</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#paolo-mazza-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Paolo Mazza</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#indian-wells-tennis-garden-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Indian Wells Tennis Garden</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-gerland-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade Gerland</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#gipedo-rizoupolis-georgios-kamaras-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Gipedo Rizoupolis "Georgios Kamaras"</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#lefkosa-ataturk-stadı-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Lefkoşa Atatürk Stadı</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-beroe-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion Beroe</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#vicarage-road-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Vicarage Road</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#karaiskakis-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Karaiskakis Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#grotenburg-stadion-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Grotenburg Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#gradski-stadion-surdulica-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Gradski Stadion Surdulica</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#zentralstadion-ekaterinburg-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Zentralstadion Ekaterinburg</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#lithuania-national-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Lithuania National Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#red-bull-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Red Bull Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#olympiako-stadio-athinas-spyros-louis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Olympiako Stadio Athinas Spyros Louis</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-galgenwaard-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion Galgenwaard</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#wwk-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">WWK ARENA</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#municipal-de-chaves-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Municipal de Chaves</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#anfield-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Anfield</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#qizhong-forest-sports-city-arena-grand-stand-court-2-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Qizhong Forest Sports City Arena Grand Stand Court 2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#coface-arena-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Coface Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#san-mames-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">San Mamés Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#georgi-asparuhov-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Georgi Asparuhov Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#recep-tayyip-erdogan-stadyumu-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Recep Tayyip Erdogan Stadyumu</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#louis-armstrong-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Louis Armstrong Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-slavko-maletin-vava-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion Slavko Maletin Vava</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-renato-curi-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio Renato Curi</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-san-paolo-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio San Paolo</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ludwigspark-stadion-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Ludwigspark Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-felix-bollaert-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade Félix Bollaert</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estadio-algarve-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estádio Algarve</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#qizhong-forest-sports-city-arena-court-3-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Qizhong Forest Sports City Arena Court 3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-gaston-gérard-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade Gaston-Gérard</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#izmir-ataturk-stadyumu-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">İzmir Atatürk Stadyumu</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#coliseum-alfonso-pérez-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Coliseum Alfonso Pérez</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ahoy-rotterdam-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Ahoy Rotterdam</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-du-roudourou-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade du Roudourou</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#national-tennis-center-court-1-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">National Tennis Center Court 1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-energa-gda?sk-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion Energa Gda?sk</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#spor-toto-akhisar-stadyumu-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Spor Toto Akhisar Stadyumu</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#shakhtar-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Shakhtar Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estadio-jose-rico-perez-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estadio José Rico Pérez</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#e.-c.-j.-de-almeida-freitas-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">E. C. J. de Almeida Freitas</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#odsal-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Odsal Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#maksimir-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Maksimir</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#los-angeles-tennis-center-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Los Angeles Tennis Center</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#o-moore-park-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">O'Moore Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#wimbledon-no-1-court-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Wimbledon No. 1 Court</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#m?stský-stadion-mladá-boleslav-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">M?stský stadion Mladá Boleslav</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#amsterdam-arena-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Amsterdam Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#mttc-iphitos-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">MTTC Iphitos</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#st-mary-s-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">St Mary's Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#debrecen-stadion-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Debrecen Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#darling-tennis-center-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Darling Tennis Center</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#intersport-arena-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Intersport Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#falcon-alkoholfri-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Falcon Alkoholfri Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estádio-joão-cardoso-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estádio João Cardoso</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#sdat-tennis-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">SDAT Tennis Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#mikheil-meskhi-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Mikheil Meskhi Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-artemio-franchi-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio Artemio Franchi</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#fritz-walter-stadion-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Fritz-Walter-Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#roland-garros-no-1-court-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Roland Garros No. 1 Court</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#mestalla-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Mestalla</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-guy-boniface-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade Guy Boniface</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#slavia-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Slavia Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estádio-do-bessa-sec.-xxi-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estádio do Bessa Sec. XXI</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#silesian-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Silesian Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#carrow-road-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Carrow Road</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ricoh-arena-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Ricoh Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#xanthi-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Xanthi Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#nv-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">NV Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#rajko-miti?-stadium-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Rajko Miti? Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estadi-de-mestalla-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estadi de Mestalla</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#butovsky-vorskla-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Butovsky Vorskla Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estádio-d.-afonso-henriques-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estádio D. Afonso Henriques</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#juventus-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Juventus Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#breffni-park-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Breffni Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#twickenham-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Twickenham Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#3.?stanbul-ba?ak?ehir-fatih-terim-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">3.?stanbul Ba?ak?ehir Fatih Terim</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#parc-des-princes-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Parc des Princes</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#st-jakobshalle-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">St. Jakobshalle</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#bijeli-brijeg-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Bijeli Brijeg Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#sochi-olympic-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Sochi Olympic Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#roy-emerson-arena-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Roy Emerson Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#rod-laver-arena-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Rod Laver Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#balaídos-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Balaídos</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#nowlan-park-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Nowlan Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-erasmo-iacovone-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio Erasmo Iacovone</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ghelamco-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Ghelamco Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-juliska-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion Juliska</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#de-oude-meerdijk-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">De Oude Meerdijk</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-cracovii-im.-józefa-pi?sudskiego-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion Cracovii im. Józefa Pi?sudskiego</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#white-hart-lane-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">White Hart Lane</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#baku-tennis-academy-central-court-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Baku Tennis Academy Central Court</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadiumi-olimpik-adem-jashari-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadiumi Olimpik Adem Jashari</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-renzo-barbera-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio Renzo Barbera</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#covebo-stadion-de-koel-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Covebo Stadion - De Koel -</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-olimpico-di-torino-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio Olimpico di Torino</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#gerry-weber-stadion-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Gerry Weber Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#rose-bowl-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Rose Bowl</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#san-mamés-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">San Mamés</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#toumba-stadium-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Toumba Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#generali-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Generali Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#new-konya-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">New Konya Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#max-morlock-stadion-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Max-Morlock-Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#le-canonnier-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Le Canonnier</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#khalifa-international-tennis-and-squash-complex-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Khalifa International Tennis and Squash Complex</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ariake-coliseum-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Ariake Coliseum</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estadio-municipal-de-aveiro-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estádio Municipal de Aveiro</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#palais-omnisports-de-paris-bercy-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Palais Omnisports de Paris-Bercy</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#gradski-stadion-subotica-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Gradski Stadion Subotica</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#rostov-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Rostov Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#dr-hyde-park-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Dr. Hyde Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#sporten-kompleks-botev-1912-komatevo-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Sporten kompleks Botev 1912 Komatevo</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estadio-manuel-martinez-valero-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estadio Manuel Martínez Valero</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-louis-ii-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade Louis-II</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#swissporarena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">swissporarena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estadio-nacional-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estádio Nacional</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#de-bosuil-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">De Bosuil</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#st-james-park-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">St James' Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#st-james-park-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">St. James' Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#devonshire-park-lawn-tennis-club-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Devonshire Park Lawn Tennis Club</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#complexe-al-amal-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Complexe Al Amal</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#bayarena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">BayArena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-via-del-mare-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio Via del Mare</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#anghel-iordanescu-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Anghel Iordanescu</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#pappelstadion-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Pappelstadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#king-baudouin-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">King Baudouin Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#m?stský-stadion-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">M?stský stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#easter-road-stadium-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Easter Road Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-cukaricki-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion Cukaricki</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-im.-volodymyra-boyko-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion im. Volodymyra Boyko</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#dnipro-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Dnipro Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#veltins-arena-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Veltins-Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#lokomotiv-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Lokomotiv</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#asb-centre-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">ASB Centre</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ataturk-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Atatürk Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#parken-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Parken Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#dynamo-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Dynamo Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#tennis-stadium-kitzbuhel-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Tennis stadium Kitzbühel</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#behrn-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Behrn Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#kazhimukan-munaitpasov-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Kazhimukan Munaitpasov Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#national-tennis-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">National Tennis Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#cardiff-city-stadium-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Cardiff City Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#dinamo-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Dinamo Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ukraina-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Ukraina Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#allianz-riviera-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Allianz Riviera</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#municipal-gaz-metan-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Municipal Gaz Metan</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#dacia-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Dacia Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#maurice-dufrasne-stadion-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Maurice Dufrasne Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#valeriy-lobanovsky-stadion-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Valeriy Lobanovsky Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estádio-do-dragão-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estádio do Dragão</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#millennium-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Millennium Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ferenc-puskas-stadion-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Ferenc Puskás Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#brondby-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Brøndby Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#impuls-arena-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Impuls Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#vodafone-park-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Vodafone Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#riazor-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Riazor</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#lavanttal-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Lavanttal-Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#lotus-court-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Lotus Court</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#wembley-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Wembley Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estadio-do-bessa-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estádio do Bessa</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#maksimir-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Maksimir Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-partenio-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio Partenio</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#tehelne-pole-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Tehelné pole</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-renato-dall’ara-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio Renato Dall’Ara</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estádio-de-são-miguel-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estádio de São Miguel</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadionul-steaua-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadionul Steaua</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ceres-park-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Ceres Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estadio-benito-villamarin-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estadio Benito Villamarín</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#jämtkraft-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Jämtkraft Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#luminus-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Luminus Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#cardiff-city-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Cardiff City Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadionul-ion-oblemenco-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadionul Ion Oblemenco</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#arsenal-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Arsenal</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#margaret-court-arena-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Margaret Court Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-livadias-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio Livadias</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#constant-vanden-stock-stadion-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Constant Vanden Stock Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stamford-bridge-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stamford Bridge</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#kosmos-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Kosmos-Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#bravida-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Bravida Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#neftyanik-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Neftyanik</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#opel-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Opel Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#bsfz-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">BSFZ-Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#central-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Central Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#signal-iduna-park-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Signal Iduna Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#el-alcoraz-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">El Alcoraz</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#hypo-arena-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Hypo-Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#the-oval-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">The Oval</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#gipedo-kleanthis-vikelidis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Gipedo "Kleanthis Vikelidis"</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#selhurst-park-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Selhurst Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#telia-parken-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Telia Parken</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estadio-nuevo-jose-zorrilla-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estadio Nuevo José Zorrilla</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#kort-centralny-park-tenisowy-olimpia-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Kort Centralny (Park Tenisowy Olimpia)</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#allianz-riviera-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Allianz Riviera</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#amex-stadium-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">AMEX Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#sinobo-stadium-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Sinobo Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#src-velika-gorica-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">SRC Velika Gorica</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ibrox-stadium-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Ibrox Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#weserstadion-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Weserstadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#hp-pavilion-at-san-jose-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">HP Pavilion at San Jose</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#malmo-stadion-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Malmö Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#olympic-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Olympic Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#seoul-olympic-park-tennis-center-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Seoul Olympic Park Tennis Center</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#wimbledon-no-2-court-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Wimbledon No. 2 Court</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#lindner-family-tennis-center-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Lindner Family Tennis Center</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ds-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">DS Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#court-17-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Court 17</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#olimpiysky-national-sports-complex-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Olimpiysky National Sports Complex</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estadio-gran-canaria-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estadio Gran Canaria</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#emirates-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Emirates Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#daknamstadion-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Daknamstadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estadio-d-afonso-henriques-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estádio D. Afonso Henriques</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-fk-ma?va-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion FK Ma?va</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#city-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">City Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#carlos-tartiere-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Carlos Tartiere</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#republican-spartak-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Republican Spartak Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#st-mary's-stadium-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">St Mary's Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estadio-jose-alvalade-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estádio José Alvalade</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#almaty-central-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Almaty Central Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#philips-stadion-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Philips Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#hristo-botev-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Hristo Botev Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#new-zenit-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">New Zenit Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-chaban-delmas-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade Chaban-Delmas</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ipurua-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Ipurua</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#mdcc-arena-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">MDCC-Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#badenova-stadion-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Badenova-Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#gradski-stadion-u-poljudu-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Gradski stadion u Poljudu</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#new-trabzon-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">New Trabzon Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#mmarena-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">MMArena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#tivoli-neu-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Tivoli-Neu</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#commerzbank-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Commerzbank Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#st.-jakob-park-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">St. Jakob-Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estádio-cd-das-aves-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estádio CD das Aves</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#gelredome-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">GelreDome</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#?olí?ek-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">?olí?ek</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#portman-road-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Portman Road</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#red-star-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Red Star Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#allianz-stadion-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Allianz-Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estadio-metropolitano-de-madrid-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estadio Metropolitano de Madrid</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-letzigrund-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion Letzigrund</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#khimik-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Khimik Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#olimpico-di-roma-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Olimpico di Roma</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#tele2-arena-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Tele2 Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#fortuna-sittard-stadion-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Fortuna Sittard Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#wiener-stadthalle-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Wiener Stadthalle</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#uniprix-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Uniprix Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#vicente-calderon-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Vicente Calderón Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#atleti-azzurri-d'italia-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Atleti Azzurri d'Italia</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-de-la-licorne-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade de la Licorne</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#craven-cottage-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Craven Cottage</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#goodison-park-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Goodison Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stockhorn-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stockhorn Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#artemio-franchi-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Artemio Franchi</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-voždovac-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion Voždovac</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadium-puskas-ferenc-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadium Puskás Ferenc</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#arthur-ashe-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Arthur Ashe Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#antalya-stadyumu-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Antalya Stadyumu</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#monte-carlo-country-club-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Monte Carlo Country Club</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#gipedo-theodoros-vardinogiannis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Gipedo Theodoros Vardinogiannis</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#suzuki-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Suzuki Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#mchale-park-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">McHale Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#cska-moscow-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">CSKA Moscow Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ullevaal-stadion-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Ullevaal Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#gazovik-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Gazovik</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#tennis-center-at-crandon-park-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Tennis Center at Crandon Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#donbass-arena-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Donbass Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#pankritio-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Pankritio Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#new-tivoli-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">New Tivoli</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#sportlokaal-bokkeduinen-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Sportlokaal Bokkeduinen</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#mac³park-stadion-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">MAC³PARK stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#wildparkstadion-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Wildparkstadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#fitzgerald-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Fitzgerald Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#eryaman-stadyumu-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Eryaman Stadyumu</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#kuban-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Kuban Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#the-hawthorns-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">The Hawthorns</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-rote-erde-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion Rote Erde</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#philip-ii-arena-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Philip II Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#foro-italico-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Foro Italico</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#camp-nou-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Camp Nou</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#pepsi-arena-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Pepsi Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#sardegna-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Sardegna Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#norrporten-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Norrporten Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ganja-city-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Ganja City Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#mcdiarmid-park-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">McDiarmid Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#central-stadium-volgograd-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Central Stadium (Volgograd)</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#st-tiernach-s-park-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">St. Tiernach's Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#arena-lviv-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Arena Lviv</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#allianz-arena-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Allianz Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#portimão-estádio-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Portimão Estádio</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#erzurum-kaz?m-karabekir-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Erzurum Kaz?m Karabekir</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#hobart-international-tennis-centre-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Hobart International Tennis Centre</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#real-club-de-tenis-barcelona-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Real Club de Tenis Barcelona</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-v-mestskych-sadech-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion v Mestskych sadech</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#gipedo-panetolikou-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Gipedo Panetolikou</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#municipal-sf.-gheorghe-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Municipal Sf. Gheorghe</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#romai-teniszakademia-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Római Teniszakadémia</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#lindner-family-tennis-center-court-9-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Lindner Family Tennis Center (Court #9)</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#cristal-arena-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Cristal Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-de-la-meinau-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade de la Meinau</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadium-municipal-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadium Municipal</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#turk-telekom-arena-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Turk Telekom Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#guldfågeln-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Guldfågeln Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ataturk-olympic-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Atatürk Olympic Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-euganeo-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio Euganeo</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#orange-vélodrome-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Orange Vélodrome</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ken-rosewall-arena-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Ken Rosewall Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#veltins-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Veltins-Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#hillsborough-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Hillsborough Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#andr?v-stadion-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Andr?v stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-feyenoord-'de-kuip'-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion Feyenoord 'De Kuip'</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-de-geneve-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade de Genève</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#jan-breydel-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Jan Breydel Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-grande-torino-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio Grande Torino</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-de-la-mosson-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade de la Mosson</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#schucoarena-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">SchücoArena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-ludowy-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion Ludowy</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estadi-ciutat-de-valencia-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estadi Ciutat de València</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#gipedo-theodoros-kolokotronis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Gipedo Theodoros Kolokotronis</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#büyüksehir-belediyesi-kadir-has-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Büyüksehir Belediyesi Kadir Has</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#healy-park-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Healy Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#king-power-stadium-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">King Power Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#signal-iduna-park-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">SIGNAL IDUNA PARK</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#pearse-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Pearse Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-san-nicola-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio San Nicola</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#new-gaziantep-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">New Gaziantep Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estádio-da-luz-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estádio da Luz</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#panathinaiko-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Panathinaiko Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ali-sami-yen-spor-kompleksi-türk-telekom-stadyumu-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Ali Sami Yen Spor Kompleksi Türk Telekom Stadyumu</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#constant-vanden-stock-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Constant Vanden Stock Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#olympiastadion-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Olympiastadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#benito-villamarín-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Benito Villamarín</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ksk-nika-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">KSK Nika</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#etihad-stadium-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Etihad Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#luzhniki-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Luzhniki Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#volkswagen-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Volkswagen Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-rujevica-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion Rujevica</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#itc-stella-maris-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">ITC Stella Maris</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#merkur-spiel-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">MERKUR SPIEL-ARENA</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#court-suzanne-lenglen-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Court Suzanne Lenglen</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#rhein-neckar-arena-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Rhein-Neckar-Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#st-james'-park-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">St James' Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#m?stský-fotbalový-stadion-miroslava-valenty-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">M?stský fotbalový stadion Miroslava Valenty</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#athens-lawn-tennis-club-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Athens Lawn Tennis Club</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#friends-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Friends Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#rzd-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">RZD Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#allianz-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Allianz Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#tsentralnyi-stadion-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Tsentralnyi Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estadio-primeiro-de-maio-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estádio Primeiro de Maio</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#lokomotiv-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Lokomotiv Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#scc-peterburgsky-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">SCC Peterburgsky</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#groupama-stadium-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Groupama Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#de-kuip-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">De Kuip</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stamford-bridge-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stamford Bridge</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estadio-da-luz-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estádio da Luz</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-de-la-maladière-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade de la Maladière</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-im.-valeriya-lobanovskogo-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion im. Valeriya Lobanovskogo</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#semple-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Semple Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-olimpico-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio Olimpico</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estadio-ramon-sanchez-pizjuan-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estadio Ramón Sánchez Pizjuán</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#agc-aréna-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">AGC Aréna</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#gradski-stadion-ruse-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Gradski Stadion Ruse</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#wimbledon-no-3-court-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Wimbledon No. 3 Court</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#parc-des-princes-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Parc des Princes</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#red-bull-arena-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Red Bull Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#court-philippe-chatrier-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Court Philippe Chatrier</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#london-olympic-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">London Olympic Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estadio-cidade-de-coimbra-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estádio Cidade de Coimbra</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#versluys-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Versluys Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#volkswagen-arena-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Volkswagen Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#st-jarlath-s-park-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">St Jarlath's Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#letzigrund-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Letzigrund</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#nsk-olimpisky-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">NSK Olimpisky</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#right-to-dream-park-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Right to Dream Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#marcantonio-bentegodi-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Marcantonio Bentegodi</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#bnr-arenas-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">BNR Arenas</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#luigi-ferraris-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Luigi Ferraris</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#sc-rudes-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">SC Rudes</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#emil-alexandrescu-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Emil Alexandrescu</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#central-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Central</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#pista-central-manolo-santana-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Pista Central: Manolo Santana</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ülker-stadyumu-fb-?ükrü-saraço?lu-spor-kompleksi-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Ülker Stadyumu FB ?ükrü Saraço?lu Spor Kompleksi</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#borussia-park-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Borussia-Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-pierre-mauroy-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade Pierre-Mauroy</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#terek-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Terek Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#turf-moor-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Turf Moor</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-kralj-petar-prvi-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion Kralj Petar Prvi</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-san-siro-giuseppe-meazza-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio San Siro - Giuseppe Meazza</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#aviva-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Aviva Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#san-mames-barria-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">San Mamés Barria</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ciutat-de-les-arts-i-les-ciencies-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Ciutat de les Arts i les Ciències</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#dom-sportova-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Dom Športova</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#awd-arena-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">AWD-Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#weserstadion-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Weserstadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#concordia-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Concordia</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-raymond-kopa-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade Raymond Kopa</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#grand-stade-lille-metropole-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Grand Stade Lille Métropole</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#olympic-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Olympic Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#london-stadium-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">London Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#the-valley-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">The Valley</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estadio-nuevo-josé-zorrilla-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estadio Nuevo José Zorrilla</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#city-ground-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">City Ground</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#rheinenergiestadion-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">RheinEnergieStadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-de-suisse-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade de Suisse</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#new-rubin-kazan-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">New Rubin Kazan Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-jumko-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion Jumko</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-du-pays-de-charleroi-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade du Pays de Charleroi</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#src-zapresic-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">SRC Zapresic</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#simple-digital-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Simple Digital Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#anzhi-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Anzhi-Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#delray-beach-tennis-center-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Delray Beach Tennis Center</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#rat-verlegh-stadion-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Rat Verlegh Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#st-jakob-park-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">St. Jakob-Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estádio-municipal-de-braga-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estádio Municipal de Braga</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#mendizorrotza-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Mendizorrotza</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#merkur-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Merkur Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#murrayfield-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Murrayfield Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#boleyn-ground-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Boleyn Ground</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#jan-breydel-stadion-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Jan-Breydel-Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#östgotaparken-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Östgotaparken</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#blue-water-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Blue Water Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estadio-anoeta-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estadio Anoeta</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-lamia-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio Lamia</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#de-vijverberg-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">De Vijverberg</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#wanda-metropolitano-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Wanda Metropolitano</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#balgarska-armiya-stadium-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Balgarska Armiya Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#hopecbd-stadium-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">HopeCBD Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#lindner-family-tennis-center-center-court-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Lindner Family Tennis Center (Center Court)</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#buenos-aires-lawn-tennis-club-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Buenos Aires Lawn Tennis Club</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#gelredome-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Gelredome</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-ennio-tardini-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio Ennio Tardini</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#chornomorets-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Chornomorets</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#pairc-ui-chaoimh-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Páirc Uí Chaoimh</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#mapei-stadium-città-del-tricolore-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Mapei Stadium - Città del Tricolore</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#yuvileiny-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Yuvileiny Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#grandstand-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Grandstand Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#poljud-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Poljud</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ewood-park-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Ewood Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#de-kuip-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">De Kuip</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#borås-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Borås Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estadio-la-rosaleda-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estadio La Rosaleda</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#matmut-atlantique-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Matmut Atlantique</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#mercedes-benz-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Mercedes-Benz Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#prezero-arena-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">PreZero Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ion-comsa-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Ion Comsa</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#pat-rafter-arena-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Pat Rafter Arena</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estadio-la-peineta-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estadio La Peineta</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#river-oaks-country-club-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">River Oaks Country Club</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#carlo-castellani-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Carlo Castellani</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#çaykur-didi-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Çaykur Didi</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#polman-stadion-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Polman Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#roazhon-park-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Roazhon Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#philips-stadion-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Philips Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-velodrome-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade Vélodrome</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#molineux-stadium-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Molineux Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#new-mersin-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">New Mersin Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-im-borussia-park-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion im Borussia-Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#pride-park-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Pride Park Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stade-du-pays-de-charleroi-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stade du Pays de Charleroi</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#carl-benz-stadion-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Carl-Benz-Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadion-na-litavce-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadion Na Litavce</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#show-court-1-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Show Court 1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#villa-park-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Villa Park</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#kaftanzoglio-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Kaftanzoglio Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#studenternas-ip-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Studenternas IP</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ramat-gan-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Ramat Gan Stadium</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estadi-cornella-el-prat-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estadi Cornellà-El Prat</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#australia-show-court-2-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Australia Show Court 2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#stadio-peristeriou-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Stadio Peristeriou</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#gamla-ullevi-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Gamla Ullevi</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#arenes-de-metz-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Arènes de Metz</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#srpc-milan-gale-muskatirovic-tennis-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">SRPC Milan Gale Muškatirović</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#afas-stadion-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">AFAS Stadion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#estadio-balaidos-football-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Estadio Balaídos</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#casa-arena-horsens-stadium</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Casa Arena Horsens</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

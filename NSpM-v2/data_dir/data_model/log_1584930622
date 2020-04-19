@@ -1,0 +1,14 @@
+# log_file=../data_model/log_1584930622
+# Start step 0, lr 1, Mon Mar 23 09:30:25 2020
+  global step 100 lr 1 step-time 0.33s wps 6.18K ppl 22.13 bleu 0.00
+  global step 200 lr 1 step-time 0.35s wps 5.81K ppl 3.32 bleu 0.00
+  global step 300 lr 1 step-time 0.33s wps 6.08K ppl 2.55 bleu 0.00
+  global step 400 lr 1 step-time 0.34s wps 5.94K ppl 2.34 bleu 0.00
+  global step 500 lr 1 step-time 0.34s wps 5.90K ppl 2.26 bleu 0.00
+  global step 600 lr 1 step-time 0.34s wps 5.91K ppl 2.26 bleu 0.00
+  global step 700 lr 1 step-time 0.36s wps 5.70K ppl 2.10 bleu 0.00
+  global step 800 lr 1 step-time 0.34s wps 5.96K ppl 2.03 bleu 0.00
+  global step 900 lr 1 step-time 0.34s wps 6.02K ppl 1.99 bleu 0.00
+  global step 1000 lr 1 step-time 0.34s wps 6.05K ppl 2.03 bleu 0.00
+# Final, step 1000 lr 1 step-time 0.34 wps 6.05K ppl 2.03, dev ppl 2.11, dev bleu 47.4, test ppl 2.07, test bleu 46.8, Mon Mar 23 09:36:15 2020
+# Best bleu, step 1000 step-time 0.34 wps 6.05K, dev ppl 2.11, dev bleu 47.4, test ppl 2.07, test bleu 46.8, Mon Mar 23 09:36:18 2020

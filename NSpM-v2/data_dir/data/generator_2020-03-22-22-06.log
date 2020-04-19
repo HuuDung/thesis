@@ -1,0 +1,5 @@
+INFO:root:     0 used resources in 0 placeholder positions
+INFO:root:dbo:Athlete contains: dbo:LacrossePlayer
+INFO:root:dbo:Person contains: <http://dbpedia.org/class/yago/Wikicat21st-centuryActors>, <http://dbpedia.org/class/yago/WikicatEnglishMusicians>, <http://dbpedia.org/class/yago/Wikicat20th-centuryNovelists>, <http://dbpedia.org/class/yago/Honoree110183757>, dbo:LacrossePlayer
+INFO:root:dbo:SportsTeam contains: dboBasketballTeam
+INFO:root:     0 not instanciated templates:

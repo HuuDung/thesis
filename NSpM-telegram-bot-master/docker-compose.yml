@@ -1,0 +1,26 @@
+version: '2'
+services:
+  nspm:
+    build: ./NSpM-service
+    volumes:
+      - ./NSpM-service:/usr/app
+      - ./NSpM-project:/usr/NSpM
+    command: sh -c 'npm install --quiet;  npm install -g nodemon; nodemon index.js'
+    ports:
+      - "5000:5000"
+
+  telegram:
+    image: node:8.10.0
+    volumes:
+      - ./Telegram_bot:/usr/src/app
+    working_dir: /usr/src/app
+    command: sh -c 'npm install; npm install -g nodemon; nodemon index.js'
+    ports:
+    - "8080:8080"
+    depends_on:
+      - nspm
+    environment:
+      - BOT_TOKEN=852735509:AAFd4Se72MiMS29xim6gVkwcGn_hCrU5MhA
+
+
+

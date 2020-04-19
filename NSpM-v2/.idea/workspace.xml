@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b181face-6234-4d7c-99c8-4b670c2be15e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZU6G5gAOkUFbDZRgy3TJcnFr8f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data_dir/data_model" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data_dir" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data_dir/data_model" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/allero-graph" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.readfile">
+    <configuration name="crawl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NSpM-v2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/allero-graph" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/allero-graph/crawl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NSpM-v2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/allero-graph" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/allero-graph/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="readfile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NSpM-v2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/readfile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.readfile" />
+        <item itemvalue="Python.crawl" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="428" y="124" width="800" height="677" key="#Plugins" timestamp="1585716037887">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="428" y="124" width="800" height="677" key="#Plugins/67.27.1533.873@67.27.1533.873" timestamp="1585716037887" />
+    <state x="2075" y="254" width="639" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584929224272">
+      <screen x="67" y="27" width="3133" height="873" />
+    </state>
+    <state x="2075" y="254" width="639" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.3133.873@67.27.3133.873" timestamp="1584929224272" />
+    <state x="516" y="190" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584890131655">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="516" y="190" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/67.27.1533.873/1600.0.1600.900@67.27.1533.873" timestamp="1584890131655" />
+    <state x="1102" y="207" width="379" height="484" key="FileChooserDialogImpl" timestamp="1586059381266">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="1102" y="207" width="379" height="484" key="FileChooserDialogImpl/67.27.1533.873/1600.0.1600.900@67.27.1533.873" timestamp="1586059381266" />
+    <state x="2183" y="207" width="424" height="484" key="FileChooserDialogImpl/67.27.3133.873@67.27.3133.873" timestamp="1584931026095" />
+    <state width="1487" height="227" key="GridCell.Tab.0.bottom" timestamp="1585749464822">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1554" height="236" key="GridCell.Tab.0.bottom/67.27.1533.873/1600.0.1600.900@1600.0.1600.900" timestamp="1585578615722" />
+    <state width="1487" height="227" key="GridCell.Tab.0.bottom/67.27.1533.873@67.27.1533.873" timestamp="1585749464822" />
+    <state width="1554" height="236" key="GridCell.Tab.0.bottom/67.27.3133.873@67.27.3133.873" timestamp="1585625445813" />
+    <state width="1487" height="227" key="GridCell.Tab.0.center" timestamp="1585749464822">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1554" height="236" key="GridCell.Tab.0.center/67.27.1533.873/1600.0.1600.900@1600.0.1600.900" timestamp="1585578615722" />
+    <state width="1487" height="227" key="GridCell.Tab.0.center/67.27.1533.873@67.27.1533.873" timestamp="1585749464822" />
+    <state width="1554" height="236" key="GridCell.Tab.0.center/67.27.3133.873@67.27.3133.873" timestamp="1585625445810" />
+    <state width="1487" height="227" key="GridCell.Tab.0.left" timestamp="1585749464821">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1554" height="236" key="GridCell.Tab.0.left/67.27.1533.873/1600.0.1600.900@1600.0.1600.900" timestamp="1585578615722" />
+    <state width="1487" height="227" key="GridCell.Tab.0.left/67.27.1533.873@67.27.1533.873" timestamp="1585749464821" />
+    <state width="1554" height="236" key="GridCell.Tab.0.left/67.27.3133.873@67.27.3133.873" timestamp="1585625445807" />
+    <state width="1487" height="227" key="GridCell.Tab.0.right" timestamp="1585749464822">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1554" height="236" key="GridCell.Tab.0.right/67.27.1533.873/1600.0.1600.900@1600.0.1600.900" timestamp="1585578615722" />
+    <state width="1487" height="227" key="GridCell.Tab.0.right/67.27.1533.873@67.27.1533.873" timestamp="1585749464822" />
+    <state width="1554" height="236" key="GridCell.Tab.0.right/67.27.3133.873@67.27.3133.873" timestamp="1585625445810" />
+    <state x="496" y="212" width="672" height="678" key="search.everywhere.popup" timestamp="1585712780696">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="496" y="212" width="672" height="678" key="search.everywhere.popup/67.27.1533.873@67.27.1533.873" timestamp="1585712780696" />
+  </component>
+</project>

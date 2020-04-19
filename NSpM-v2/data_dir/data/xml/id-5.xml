@@ -1,0 +1,1881 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="a"/>
+    <variable name="la"/>
+  </head>
+  <results>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#kepa</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">kepa</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#kepa</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Kepa</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#marc-albrighton</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">marc albrighton</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#marc-albrighton</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Marc Albrighton</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#marc-albrighton</uri>
+      </binding>
+      <binding name="la">
+        <literal>Albrighton</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#mauro-icardi</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">mauro icardi</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#mauro-icardi</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Mauro Icardi</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#mauro-icardi</uri>
+      </binding>
+      <binding name="la">
+        <literal>Icardi</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#arsene-wenger</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Arsene Wenger</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#paulo-dybala</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Paulo Dybala</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#paulo-dybala</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">paulo dybala</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#paulo-dybala</uri>
+      </binding>
+      <binding name="la">
+        <literal>Dybala</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#mario-gotze</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Mario GÃ¶tze</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#mario-gotze</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">mario gotze</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#mario-gotze</uri>
+      </binding>
+      <binding name="la">
+        <literal>Gotze</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#jose-mourinho</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Jose Mourinho</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#frenkie-de-jong</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">frenkie de jong</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#frenkie-de-jong</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Frenkie de Jong</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#fabian-delph</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Fabian Delph</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#fabian-delph</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">fabian delph</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#fabian-delph</uri>
+      </binding>
+      <binding name="la">
+        <literal>Delph</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#inter-milan</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Inter Milan</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#mario-balotelli</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Mario Balotelli</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#mario-balotelli</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">mario balotelli</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#mario-balotelli</uri>
+      </binding>
+      <binding name="la">
+        <literal>Balotelli</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#manuel-neuer</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">manuel neuer</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#manuel-neuer</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Manuel Neuer</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#manuel-neuer</uri>
+      </binding>
+      <binding name="la">
+        <literal>Neuer</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#gil</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Gil</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#bournemouth-fc</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Bournemouth</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#vfl-wolfsburg</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">VfL Wolfsburg</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#marko-arnautovic</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Marko Arnautovic</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#marko-arnautovic</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">marko arnautovic</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#marko-arnautovic</uri>
+      </binding>
+      <binding name="la">
+        <literal>Arnautovic</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#medhi-benatia</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Medhi Benatia</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#medhi-benatia</uri>
+      </binding>
+      <binding name="la">
+        <literal>Benatia</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#atletico-madrid</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Atletico Madrid</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#patrice-evra</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Patrice Evra</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#patrice-evra</uri>
+      </binding>
+      <binding name="la">
+        <literal>Evra</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#christian-pulisic</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Christian Pulisic</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#christian-pulisic</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">christian pulisic</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#matthijs-de-ligt</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">matthijs de ligt</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#matthijs-de-ligt</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Matthijs de Ligt</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#borussia-monchengladbach</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Borussia Monchengladbach</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#tottenham-hotspur</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Tottenham Hotspur</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#charlton-athletic-fc</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Charlton Athletic</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#everton-fc</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Everton</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#brighton-hove-albion</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Brighton and Hove Albion</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#wigan-athletic-fc</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Wigan Athletic</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#glen-johnson</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Glen Johnson</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#glen-johnson</uri>
+      </binding>
+      <binding name="la">
+        <literal>Johnson</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#felipe</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">felipe</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#felipe</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Felipe</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#felipe</uri>
+      </binding>
+      <binding name="la">
+        <literal>Felipe</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#atletico-madrid-fc</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Atletico Madrid</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#miralem-pjanic</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">miralem pjanic</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#miralem-pjanic</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Miralem Pjanic</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#miralem-pjanic</uri>
+      </binding>
+      <binding name="la">
+        <literal>Pjanic</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#crystal-palace</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Crystal Palace</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#hugo-lloris</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Hugo Lloris</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#hugo-lloris</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">hugo lloris</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#hugo-lloris</uri>
+      </binding>
+      <binding name="la">
+        <literal>Lloris</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#leicester-city-fc</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Leicester City</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#barcelona-fc</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Barcelona</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#lucas-moura</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">lucas moura</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#lucas-moura</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Lucas Moura</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#victor-moses</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">victor moses</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#victor-moses</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Victor Moses</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#victor-moses</uri>
+      </binding>
+      <binding name="la">
+        <literal>Moses</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#everton</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Everton FC</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#everton</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Everton</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#cristiano-ronaldo</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Cristiano Ronaldo</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#cristiano-ronaldo</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">cristiano ronaldo</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#cristiano-ronaldo</uri>
+      </binding>
+      <binding name="la">
+        <literal>Ronaldo</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#gareth-bale</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Gareth Bale</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#gareth-bale</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">gareth bale</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#gareth-bale</uri>
+      </binding>
+      <binding name="la">
+        <literal>Bale</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#luciano</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Luciano</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#jonathan-walters</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">jonathan walters</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#jonathan-walters</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Jonathan Walters</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#jonathan-walters</uri>
+      </binding>
+      <binding name="la">
+        <literal>Walters</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#sergio-aguero</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Sergio Aguero</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#sergio-aguero</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">sergio aguero</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#granit-xhaka</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Granit Xhaka</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#granit-xhaka</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">granit xhaka</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#granit-xhaka</uri>
+      </binding>
+      <binding name="la">
+        <literal>Xhaka</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#wayne-rooney</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Wayne Rooney</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#wayne-rooney</uri>
+      </binding>
+      <binding name="la">
+        <literal>Rooney</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#manchester-city</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Manchester City</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#zlatan-ibrahimovic</uri>
+      </binding>
+      <binding name="la">
+        <literal>Ibrahimovic</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#zlatan-ibrahimovic</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Zlatan Ibrahimovic</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#tom-davies</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Tom Davies</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#tom-davies</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">tom davies</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#athletic-bilbao</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Athletic Bilbao</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#romelu-lukaku</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Romelu Lukaku</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#romelu-lukaku</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">romelu lukaku</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#romelu-lukaku</uri>
+      </binding>
+      <binding name="la">
+        <literal>Lukaku</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#eden-hazard</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">eden hazard</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#eden-hazard</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Eden Hazard</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#eden-hazard</uri>
+      </binding>
+      <binding name="la">
+        <literal>Hazard</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#borussia-dortmund</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Borussia Dortmund</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#liverpool-fc</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Liverpool</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#juventus</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Juventus FC</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#juventus</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Juventus</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#leicester-city</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Leicester City</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#olivier-giroud</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">olivier giroud</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#olivier-giroud</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Olivier Giroud</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#olivier-giroud</uri>
+      </binding>
+      <binding name="la">
+        <literal>Giroud</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#chelsea</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Chelsea</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#chelsea</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Chelsea FC</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#lionel-messi</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">lionel messi</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#lionel-messi</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Lionel Messi</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#lionel-messi</uri>
+      </binding>
+      <binding name="la">
+        <literal>Messi</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#patrick-bamford</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Patrick Bamford</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#patrick-bamford</uri>
+      </binding>
+      <binding name="la">
+        <literal>Bamford</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#tottenham-hotspur-fc</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Tottenham Hotspur</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#wilfred-ndidi</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Wilfred Ndidi</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#wilfred-ndidi</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">wilfred ndidi</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#dani-alves</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Dani Alves</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#dani-alves</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">dani alves</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#dani-alves</uri>
+      </binding>
+      <binding name="la">
+        <literal>Alves</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#frank-lampard</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Frank Lampard</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#manchester-city-fc</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Manchester City</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#hugo</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Hugo</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#crystal-palace-fc</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Crystal Palace</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#watford-fc</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Watford</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#arsenal-fc</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Arsenal</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#riyad-mahrez</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Riyad Mahrez</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#riyad-mahrez</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">riyad mahrez</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#riyad-mahrez</uri>
+      </binding>
+      <binding name="la">
+        <literal>Mahrez</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#borussia-monchengladbach-fc</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Borussia Monchengladbach</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#philippe-coutinho</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Philippe Coutinho</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#philippe-coutinho</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">philippe coutinho</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#juventus-fc</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Juventus</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#dominic-solanke</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">dominic solanke</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#dominic-solanke</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Dominic Solanke</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#manchester-united-fc</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Manchester United</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#bayern-munich</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Bayern Munich</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#victor-wanyama</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">victor wanyama</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#victor-wanyama</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Victor Wanyama</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#victor-wanyama</uri>
+      </binding>
+      <binding name="la">
+        <literal>Wanyama</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#alex</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">alex</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#alex</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Alex</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#alex</uri>
+      </binding>
+      <binding name="la">
+        <literal>Alex</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ben-mee</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Ben Mee</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ben-mee</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">ben mee</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#wigan-athletic</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Wigan Athletic</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#sam-vokes</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Sam Vokes</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#neymar</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">neymar</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#neymar</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Neymar</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#neymar</uri>
+      </binding>
+      <binding name="la">
+        <literal>Neymar</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#isco</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">isco</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#isco</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Isco</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#isco</uri>
+      </binding>
+      <binding name="la">
+        <literal>Isco</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#pierre-emerick-aubameyang</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Pierre-Emerick Aubameyang</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#pierre-emerick-aubameyang</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">pierre emerick aubameyang</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#pierre-emerick-aubameyang</uri>
+      </binding>
+      <binding name="la">
+        <literal>Aubameyang</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#marquinhos</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Marquinhos</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#marquinhos</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">marquinhos</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#marquinhos</uri>
+      </binding>
+      <binding name="la">
+        <literal>Marquinhos</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#lucas-hernandez</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">lucas hernandez</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#jadon-sancho</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">jadon sancho</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#jadon-sancho</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Jadon Sancho</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#cesar-azpilicueta</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Cesar Azpilicueta</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#cesar-azpilicueta</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">cesar azpilicueta</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#thibaut-courtois</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Thibaut Courtois</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#thibaut-courtois</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">thibaut courtois</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#thibaut-courtois</uri>
+      </binding>
+      <binding name="la">
+        <literal>Courtois</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#mauricio-pochettino</uri>
+      </binding>
+      <binding name="la">
+        <literal>Mauricio Pochettino</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#mauricio-pochettino</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Mauricio Pochettino</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#theo-hernandez</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">theo hernandez</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#franck-ribery</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">franck ribery</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#franck-ribery</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Franck RibÃ©ry</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#pablo-zabaleta</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Pablo Zabaleta</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#pablo-zabaleta</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">pablo zabaleta</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#pablo-zabaleta</uri>
+      </binding>
+      <binding name="la">
+        <literal>Zabaleta</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#aek-athens</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">AEK Athens</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#watford</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Watford FC</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#watford</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Watford</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#idrissa-gueye</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">idrissa gueye</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#idrissa-gueye</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Idrissa Gueye</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#idrissa-gueye</uri>
+      </binding>
+      <binding name="la">
+        <literal>Gueye</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#shane-long</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">shane long</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#shane-long</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Shane Long</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#shane-long</uri>
+      </binding>
+      <binding name="la">
+        <literal>Long</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#charlton-athletic</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Charlton Athletic</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#antoine-griezmann</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Antoine Griezmann</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#antoine-griezmann</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">antoine griezmann</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#antoine-griezmann</uri>
+      </binding>
+      <binding name="la">
+        <literal>Griezmann</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#platini</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">platini</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#platini</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Platini</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#mesut-ozil</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">mesut ozil</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#mesut-ozil</uri>
+      </binding>
+      <binding name="la">
+        <literal>ozil</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#as-monaco</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">AS Monaco</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#alexis-sanchez</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">alexis sanchez</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#alexis-sanchez</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Alexis Sanchez</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#bournemouth</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Bournemouth</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#edinson-cavani</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">edinson cavani</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#edinson-cavani</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Edinson Cavani</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#edinson-cavani</uri>
+      </binding>
+      <binding name="la">
+        <literal>Cavani</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#fc-luzern</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">FC Luzern</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#manchester-united</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Manchester United</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#andrea-barzagli</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Andrea Barzagli</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#andrea-barzagli</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">andrea barzagli</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#andrea-barzagli</uri>
+      </binding>
+      <binding name="la">
+        <literal>Barzagli</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#arsenal</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Arsenal FC</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#arsenal</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Arsenal</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#kyle-lafferty</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">kyle lafferty</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#kyle-lafferty</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Kyle Lafferty</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#kyle-lafferty</uri>
+      </binding>
+      <binding name="la">
+        <literal>Lafferty</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#barcelona</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Barcelona</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#real-madrid</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Real Madrid</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#lyle-taylor</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Lyle</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#louis-van-gaal</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Louis Van Gaal</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#liverpool</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Liverpool FC</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#liverpool</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Liverpool</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#malaga</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Malaga</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#kevin-de-bruyne</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">kevin de bruyne</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#kevin-de-bruyne</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Kevin De Bruyne</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#kevin-de-bruyne</uri>
+      </binding>
+      <binding name="la">
+        <literal>Bruyne</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#middlesbrough</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Middlesbrough</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#middlesbrough-fc</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Middlesbrough</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#chelsea-fc</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Chelsea</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#morgan-schneiderlin</uri>
+      </binding>
+      <binding name="la">
+        <literal>Schneiderlin</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#morgan-schneiderlin</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Morgan Schneiderlin</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#morgan-schneiderlin</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">morgan schneiderlin</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#ajax-amsterdam</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Ajax Amsterdam</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#mario-barwuah-balotelli</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Mario Barwuah Balotelli</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#jamie-vardy</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Jamie Vardy</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#jamie-vardy</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">jamie vardy</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#jamie-vardy</uri>
+      </binding>
+      <binding name="la">
+        <literal>Vardy</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#arjen-robben</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Arjen Robben</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#arjen-robben</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">arjen robben</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#arjen-robben</uri>
+      </binding>
+      <binding name="la">
+        <literal>Robben</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

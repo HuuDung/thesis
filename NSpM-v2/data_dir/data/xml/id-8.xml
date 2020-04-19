@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="a"/>
+    <variable name="la"/>
+  </head>
+  <results>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#sergio-aguero</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Sergio Aguero</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#sergio-aguero</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">sergio aguero</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#paul-pogba</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Paul Pogba</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#paul-pogba</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">paul pogba</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#paul-pogba</uri>
+      </binding>
+      <binding name="la">
+        <literal>Pogba</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#lionel-messi</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">lionel messi</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#lionel-messi</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Lionel Messi</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#lionel-messi</uri>
+      </binding>
+      <binding name="la">
+        <literal>Messi</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

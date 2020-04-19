@@ -1,0 +1,233 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="a"/>
+    <variable name="la"/>
+  </head>
+  <results>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#swansea-city</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Swansea City</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#wolverhampton-wanderers-fc</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Wolverhampton Wanderers</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#sunderland-fc</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Sunderland</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#tottenham-hotspur</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Tottenham Hotspur</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#everton-fc</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Everton</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#everton</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Everton FC</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#everton</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Everton</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#manchester-city</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Manchester City</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#liverpool-fc</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Liverpool</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#fulham</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Fulham</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#chelsea</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Chelsea</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#chelsea</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Chelsea FC</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#tottenham-hotspur-fc</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Tottenham Hotspur</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#manchester-city-fc</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Manchester City</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#arsenal-fc</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Arsenal</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#manchester-united-fc</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Manchester United</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#wolverhampton-wanderers</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Wolverhampton Wanderers</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#newcastle-united</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Newcastle United</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#swansea-city-fc</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Swansea City</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#fulham-fc</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Fulham</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#newcastle-united-fc</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Newcastle United</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#manchester-united</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Manchester United</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#arsenal</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Arsenal FC</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#arsenal</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Arsenal</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#sunderland</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Sunderland</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#liverpool</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Liverpool FC</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#liverpool</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Liverpool</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://bk.sport.owl#chelsea-fc</uri>
+      </binding>
+      <binding name="la">
+        <literal xml:lang="en">Chelsea</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>
