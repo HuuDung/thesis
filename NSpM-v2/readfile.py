@@ -130,31 +130,33 @@ def extract_bindings_v2(generate_query, input_host=HOST, input_port=PORT, input_
     #
     with catalog.getRepository(input_repository, Repository.ACCESS) as repo:
         with repo.getConnection() as conn:
-            tupleQuery = conn.prepareTupleQuery(query=generate_query)
-            tupleQuery.setIncludeInferred(True)
-            datas = tupleQuery.evaluate()
-            count = tupleQuery.evaluate(count=True)
             results = []
-            for data in datas:
-                if len(data) == 2:
-                    result = {
-                        'a': {
-                            'uri': unicode(modifyURI(str(data['a']))),
-                            'label': unicode(modifyLabel_v2(str(data['la'])))
+            count = 0
+            if generate_query:
+                tupleQuery = conn.prepareTupleQuery(query=generate_query)
+                tupleQuery.setIncludeInferred(True)
+                datas = tupleQuery.evaluate()
+                count = tupleQuery.evaluate(count=True)
+                for data in datas:
+                    if len(data) == 2:
+                        result = {
+                            'a': {
+                                'uri': unicode(modifyURI(str(data['a']))),
+                                'label': unicode(modifyLabel_v2(str(data['la'])))
+                            }
                         }
-                    }
-                    results.append(result)
-                elif len(data) == 4:
-                    result = {
-                        'a': {
-                            'uri': unicode(modifyURI(str(data['a']))),
-                            'label': unicode(modifyLabel_v2(str(data['la'])))
+                        results.append(result)
+                    elif len(data) == 4:
+                        result = {
+                            'a': {
+                                'uri': unicode(modifyURI(str(data['a']))),
+                                'label': unicode(modifyLabel_v2(str(data['la'])))
+                            }
+                            ,
+                            'b': {
+                                'uri': unicode(modifyURI(str(data['b']))),
+                                'label': unicode(modifyLabel_v2(str(data['lb'])))
+                            }
                         }
-                        ,
-                        'b': {
-                            'uri': unicode(modifyURI(str(data['b']))),
-                            'label': unicode(modifyLabel_v2(str(data['lb'])))
-                        }
-                    }
-                    results.append(result)
+                        results.append(result)
             return results, count

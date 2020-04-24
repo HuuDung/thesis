@@ -19,15 +19,18 @@ def main():
             counts = []
             for i in range(len(datas)):
                 generate_query = datas['generate_query'][i]
-                tupleQuery = conn.prepareTupleQuery(query=generate_query)
-                tupleQuery.setIncludeInferred(True)
+                if pd.isnull(generate_query):
+                    count = 0
+                else:
+                    tupleQuery = conn.prepareTupleQuery(query=generate_query)
+                    tupleQuery.setIncludeInferred(True)
 
-                # results = tupleQuery.evaluate()
-                # for result in results:
-                #     print len(result)
+                    # results = tupleQuery.evaluate()
+                    # for result in results:
+                    #     print len(result)
 
-                print generate_query
-                count = tupleQuery.evaluate_generic_query(count=True)
+                    print generate_query
+                    count = tupleQuery.evaluate_generic_query(count=True)
                 print count
                 counts.append(count)
             print counts
