@@ -31,7 +31,7 @@ bot.action('ask', (ctx) => {
 });
 
 bot.action('query', (ctx) => {
-    return ctx.reply(messages.inline_query_answer, true)
+    return ctx.answerCbQuery(messages.inline_query_answer, true)
 });
 
 
