@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b181face-6234-4d7c-99c8-4b670c2be15e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/allero-graph/crawl.py" beforeDir="false" afterPath="$PROJECT_DIR$/allero-graph/crawl.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/evaluate.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/readfile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-v2/data/data_300.en" beforeDir="false" afterPath="$PROJECT_DIR$/data_v2/data/data_300.en" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-v2/data/data_300.sparql" beforeDir="false" afterPath="$PROJECT_DIR$/data_v2/data/data_300.sparql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-v2/data/generator_2020-04-24-08-36.log" beforeDir="false" afterPath="$PROJECT_DIR$/data_v2/data/generator_2020-04-24-08-36.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-v2/data/used_resources_2020-04-24-08-36.json" beforeDir="false" afterPath="$PROJECT_DIR$/data_v2/data/used_resources_2020-04-24-08-36.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/nmt/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/nmt/nmt/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/nmt/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/output_decoded.txt" beforeDir="false" afterPath="$PROJECT_DIR$/nmt/output_decoded.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmt/to_ask.txt" beforeDir="false" afterPath="$PROJECT_DIR$/nmt/to_ask.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
