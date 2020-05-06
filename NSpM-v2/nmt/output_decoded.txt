@@ -1,1 +1,1 @@
-ask where{bksport:nathan-redmond bksport:playFor bksport:norwich-city }
+select ?a where{?b rdf:type bksport:Result . ?b bksport:contain bksport:chelsea-fc . ?b bksport:contain bksport:swansea-city-fc . ?b bksport:hasAbstract ?a }

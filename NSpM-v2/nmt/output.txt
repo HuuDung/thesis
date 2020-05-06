@@ -1,1 +1,1 @@
-ask where brack_open bksport_nathan-redmond bksport_playFor bksport_norwich-city brack_close
+select var_a where brack_open var_b rdf_type bksport_Result sep_dot var_b bksport_contain bksport_chelsea-fc sep_dot var_b bksport_contain bksport_swansea-city-fc sep_dot var_b bksport_hasAbstract var_a brack_close

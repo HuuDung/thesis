@@ -301,7 +301,7 @@ def train(hparams, scope=None, target_session=""):
             # Save checkpoint
             loaded_train_model.saver.save(
                 train_sess,
-                '../data_dir/data_model/translate.ckpt',
+                '../data_v2/data_model/translate.ckpt',
                 global_step=global_step)
             # Evaluate on dev/test
             run_sample_decode(infer_model, infer_sess,
@@ -316,7 +316,7 @@ def train(hparams, scope=None, target_session=""):
             # Save checkpoint
             loaded_train_model.saver.save(
                 train_sess,
-                '../data_dir/data_model/translate.ckpt',
+                '../data_v2/data_model/translate.ckpt',
                 global_step=global_step)
             run_sample_decode(infer_model, infer_sess,
                               model_dir, hparams, summary_writer, sample_src_data,
@@ -328,7 +328,7 @@ def train(hparams, scope=None, target_session=""):
     # Done training
     loaded_train_model.saver.save(
         train_sess,
-        '../data_dir/data_model/translate.ckpt',
+        '../data_v2/data_model/translate.ckpt',
         global_step=global_step)
 
     result_summary, _, dev_scores, test_scores, dev_ppl, test_ppl = run_full_eval(
