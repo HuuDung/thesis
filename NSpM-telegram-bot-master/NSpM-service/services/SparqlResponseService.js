@@ -3,6 +3,7 @@
 module.exports = class SparqlResponseService {
 
     responseSuccess(response, preferredLanguage, query) {
+        const bksport = 'http://bk.sport.owl#'
         let status = 'error';
         let type = 'string';
         let value = '';
@@ -11,12 +12,15 @@ module.exports = class SparqlResponseService {
             value = response.boolean === true ? 1 : 0;
             status = 'ok';
         }
-        else{
-            if (response.value !== null){
+        else {
+            if (response.value !== null) {
                 status = 'ok'
                 value = response.value
+                if (value.includes(bksport)) {
+                    type = 'uri'
+                }
             }
-            else{
+            else {
                 status = 'ok'
                 value = 'Result not found!'
             }
@@ -46,7 +50,7 @@ module.exports = class SparqlResponseService {
 
 
         return {
-            query: query.replace(/(\r\n|\n|\r)/gm,""),
+            query: query.replace(/(\r\n|\n|\r)/gm, ""),
             value: value,
             type: type,
             status: status

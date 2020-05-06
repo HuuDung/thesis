@@ -48,8 +48,6 @@ app.post('/sparql', async (req, res) => {
 
     try {
         let response = await bksportSparqlClient.query('catalogs/vtio-catalog/repositories/bksport-repository', req.body.question)
-        // console.log(typeof response)
-        // console.log(response.values)
         if (typeof response === "boolean") {
             data = {
                 boolean: response
